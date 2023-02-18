@@ -4,7 +4,7 @@
 
 ---
 
-## Previous Roles in Software Development Lifecycle: 
+## Previous Roles in a Software Development Lifecycle: 
 * **Requirements Gatherer**
 * **Feature Proposal Creator**
 * **Team Topology Creator**

@@ -23,14 +23,21 @@ Since 2021
 |Product Owner |Physics Teacher|
 |Quality Assurance|E-learning content creator|
 
+2018 - 2021
+| Ergono.pl | Physics Teacher    | 
+| ------:| -----:|
+| Consultant      | International Baccalaureate | 
+| Courses for Teachers      |  
 
-2006 - 2018
-| Since 2008: Ergono.pl Startup        | Physics and Informatics Teacher           | Managing EU Projects  |
+2008 - 2018
+| Ergono.pl Startup        | Physics and Informatics Teacher           | Managing EU Projects  |
 | ------------- |:-------------:| -----:|
 | Manager      | 8th Gymnasium in Rzeszów | Public Sector |
 | Developer      | bilingual High School      |  e-learning platform with Librus |
 | Content creator | bilingual Primary School      |    pop-science programs |
-| | International Baccalaureate      |     |
+
+
+2006 - 2008 - Physics and Informatic Teacher
 
 2004 - 2006
 |   Salesman   |   WebMaster   |

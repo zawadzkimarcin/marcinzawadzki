@@ -1,67 +1,74 @@
-# .
-Siedliska 491
-36-042 Lubenia
-## .
+###### Siedliska 491
+###### 36-042 Lubenia
 
-Computer Expertise:
-Languages: Javascript / Typescript
-Technologies: Node.js, Azure
-Tools: Playwright, Postman, Lighthouse
-
-SDLC: 
---* Formal documentation 
---* Team Topology creator (Scrum with Kanban)  
---* Requierements Gatherer
---* Feature Proposals (Google Material Design)
---* 
 ---
 
-Experience
-Professional
-Since 2021
-|2022: MTU Aero Engines|WSKZ Wrocław|
-|Product Owner |Physics Teacher|
-|Quality Assurance|E-learning content creator|
+## Previous Roles around Software Development Lifecycle: 
+* Requirements Gathering
+* Feature proposals (Google Material Design / Angular Material)
+* Team Topology Creation ( around Scrum with Kanban)
+* Quality Assurance  
+* Formal documentation
+---
 
-2018 - 2021
+## Experience
+
+* **Product Owner, Quality Assurance, Physics Lecturer** (2022 - Current)
+
+
+| MTU Aero Engines| WSKZ Wrocław | 
+| :------:| :-----:|
+|Product Owner & Quality Assurance     |   Physics Lecturer   | 
+
+* **Consultant, Teacher** (2018 - 2021)
+
 | Ergono.pl | Physics Teacher    | 
-| ------:| -----:|
+| :------:| :-----:|
 | Consultant      | International Baccalaureate | 
 | Courses for Teachers      |  
 
-2008 - 2018
+* **Startup Owner, Teacher, Manager** (2008 - 2018)
+
+
 | Ergono.pl Startup        | Physics and Informatics Teacher           | Managing EU Projects  |
-| ------------- |:-------------:| -----:|
-| Manager      | 8th Gymnasium in Rzeszów | Public Sector |
-| Developer      | bilingual High School      |  e-learning platform with Librus |
-| Content creator | bilingual Primary School      |    pop-science programs |
+| :------------: |:-------------:| :-----:|
+| Manager      | 8th Gymnasium in Rzeszów | For Public Sector |
+| Developer      | Bilingual High School      |  *E-learning platform with Librus* (4 years) |
+| Content creator | Bilingual Primary School      |    **Pop-science programs** |
+|  |  |    *Is it possible to Discover Universe?* (2 years) |
+|  |       |    *Phoenix with UJ, URz, UJK* (3 years) |
+|||*Renewable Energy - Comenius Workshops* (2 years)|
+
+* **Physics and Informatics Teacher** (2006 - 2008)
+
+* **Salesman and Webmaster** (2004 - 2006)
 
 
-2006 - 2008 - Physics and Informatic Teacher
-
-2004 - 2006
 |   Salesman   |   WebMaster   |
-| -------------:| -----:|
+| :-------------:| :-----:|
 |   Chrysler, Jeep, Dodge   |   WebPages for Public Sector   |
 |   Hitachi Power Tools   |   |
 
-2003: technical infoline consultant (Telekomunikacja Polska/ Orange),
-2001: establishing internet connections to private houses and companies (Enformatic),
-
-Volounteer & Open Projects
+* **Technical infoline consultant (Telekomunikacja Polska/ Orange)** (2003)
+* **Internet Network Builder** (Enformatic) (2001)
+---
+## Volounteer & Open Projects
 * Cooperation with CERN (2010 - 2017)
 * Cooperation with Polish Radio Rzeszów - pop-science events
+---
+## Author
+* Experimental Physics with Wireless Sensors for IB Diploma Programme
+* Experimental Physics for High School Program
+* Bilingual Physics for Primary School Program
+* Experimental Physics for Gymnasium Program
 
-Author
-* Program: Bilingual Physics for Primary School
-* Program: Experimental Physics for Gymnasium
-* Program: Experimental Physics with Wireless Sensors for IB
 
-Education
-2020: University of Brzeg, Postraduate Studies - Management
-2008: University of Rzeszów - Master of Physics
-2008: University of Rzeszów, Postgraduate Studies - Health and Safety
-2007: University of Warsaw, Postgraduate Studies - E-learning
-2006: University of Rzeszów - Bachelor of Physics and Informatics
-2003: Technical College ZST in Rzeszów - Electronics / Operational Systems
-2002: Internship Fan.fm radio
+---
+## Education
+* **Management**, Postgraduate Studies (online), University of Brzeg (2020) 
+* **Physics**, Master's degree - University of Rzeszów (2008)
+* **Health and Safety**, Postgraduate Studies - University of Rzeszów (2008)
+* **E-learning**, Postgraduate Studies - University of Warsaw (2007)
+* **Physics and Informatics**, Bachelor's degree - University of Rzeszów (2006)
+* **Electronics / Operational Systems**, Technical College ZST in Rzeszów (2003)
+* **Internship** Fan.fm Radio (2002) 

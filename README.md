@@ -20,7 +20,7 @@
 
 | MTU Aero Engines| WSKZ Wrocław | 
 | :------:| :-----:|
-|Product Owner & Quality Assurance     |   Physics Lecturer   | 
+|Product Owner & Quality Assurance     |   Physics Lecturer (for online platform)   | 
 
 * **Consultant, Teacher** (2018 - 2021)
 

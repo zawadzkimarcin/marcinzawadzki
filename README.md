@@ -11,6 +11,7 @@
 * **Project Manager or Product Owner** 
 * **Quality Assurance**  
 * **Formal documentation Creator**
+
 ---
 
 ## Experience
@@ -67,7 +68,6 @@
 * Experimental Physics for High School Program
 * Bilingual Physics for Primary School Program
 * Experimental Physics for Gymnasium Program
-
 
 ---
 

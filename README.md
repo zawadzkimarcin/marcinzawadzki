@@ -5,11 +5,12 @@
 ---
 
 ## Previous Roles around Software Development Lifecycle: 
-* Requirements Gatherer
-* Feature Proposal Creator (Google Material Design / Angular Material)
-* Team Topology Creator ( around Scrum with Kanban)
-* Quality Assurance  
-* Formal documentation Creator
+* **Requirements Gatherer**
+* **Feature Proposal Creator**
+* **Team Topology Creator**
+* **Project Manager or Product Owner** 
+* **Quality Assurance**  
+* **Formal documentation Creator**
 ---
 
 ## Experience

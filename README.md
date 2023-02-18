@@ -33,10 +33,10 @@ Since 2021
 | | International Baccalaureate      |     |
 
 2004 - 2006
-|   Salesman   |   WebMaster   |
+|   Salesman   |   WebMaster   ||
 | ------------- |:-------------:| -----:|
-|   Chrysler, Jeep, Dodge   |   WebPages for Public Sector   |
-|   Hitachi Power Tools   |   |
+|   Chrysler, Jeep, Dodge   |   WebPages for Public Sector   ||
+|   Hitachi Power Tools   |   ||
 
 2003: technical infoline consultant (Telekomunikacja Polska/ Orange),
 2001: establishing internet connections to private houses and companies (Enformatic),

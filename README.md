@@ -53,11 +53,15 @@
 
 * **Technical infoline consultant (Telekomunikacja Polska/ Orange)** (2003)
 * **Internet Network Builder** (Enformatic) (2001)
+
 ---
+
 ## Volounteer & Open Projects
 * Cooperation with CERN (2010 - 2017)
 * Cooperation with Polish Radio Rzeszów - pop-science events
+
 ---
+
 ## Author
 * Experimental Physics with Wireless Sensors for IB Diploma Programme
 * Experimental Physics for High School Program
@@ -66,6 +70,7 @@
 
 
 ---
+
 ## Education
 * **Management**, Postgraduate Studies (online), University of Brzeg (2020) 
 * **Physics**, Master's degree - University of Rzeszów (2008)

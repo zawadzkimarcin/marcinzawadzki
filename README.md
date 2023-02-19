@@ -27,7 +27,7 @@
 
 | Ergono.pl | Physics Teacher    | 
 | :------:| :-----:|
-| Consultant      | International Baccalaureate | 
+| Agile/Scrum Consultant      | International Baccalaureate | 
 | Courses for Teachers      |
 | *LaTeX with Apache OpenOffice for Sciences*   |
 | *Graphing Calculator Geogebra for Sciences*|

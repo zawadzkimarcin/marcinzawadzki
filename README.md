@@ -28,7 +28,9 @@
 | Ergono.pl | Physics Teacher    | 
 | :------:| :-----:|
 | Consultant      | International Baccalaureate | 
-| Courses for Teachers      |  
+| Courses for Teachers      |
+| *LaTeX with Apache OpenOffice for Sciences*   |
+| *Graphing Calculator Geogebra for Sciences*|
 
 * **Startup Owner, Teacher, Manager** (2008 - 2018)
 

@@ -60,7 +60,7 @@
 ---
 
 ## Volounteer & Open Projects
-* Cooperation with CERN (2010 - 2017)
+* Cooperation with CERN (2010 - 2017) - visits (LHC/LHC Control Room, The CERN Computer Center by Google, workshops and lectures for visitors)
 * Cooperation with Polish Radio Rzeszów - pop-science events
 
 ---

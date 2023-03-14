@@ -60,6 +60,10 @@
 ---
 
 ## Volounteer & Open Projects
+* Scrum.org (2022)
+<dd><b>Kanban guide for Scrum Teams (PL)</b></dd>
+<dd><i>Translation Team</i></dd>
+
 * Cooperation with CERN (2010 - 2017) 
 <dl>
   <dd><b>CERN Visits</b></dd>

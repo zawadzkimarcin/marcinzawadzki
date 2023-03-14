@@ -78,7 +78,7 @@
 
 * Cooperation with Polish Radio Rzeszów - pop-science events and programs
 
-[Niebo Nad Biwakiem](https://www.youtube.com/playlist?list=PLioPDe3ROnS9uNE0SJ7o7IcS3dSWwIQ6v)
+[i.e Niebo Nad Biwakiem](https://www.youtube.com/playlist?list=PLioPDe3ROnS9uNE0SJ7o7IcS3dSWwIQ6v)
 
 ---
 
